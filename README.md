@@ -21,4 +21,4 @@ This is my personal portfolio website developed using **HTML**, **CSS**, and **J
 [Tap here to visit my website](https://angadsinghh.netlify.app/)
 
 ## 📬 Feedback
-Feedback and suggestions are welcome! Feel free to open an issue or reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Feedback and suggestions are welcome! Feel free to open an issue or reach out via [LinkedIn](https://www.linkedin.com/in/angad-singh-272198339/).
